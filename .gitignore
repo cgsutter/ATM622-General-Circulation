@@ -1,2 +1,4 @@
 .*
 !.gitignore
+data/
+CFSR_work.ipynb
